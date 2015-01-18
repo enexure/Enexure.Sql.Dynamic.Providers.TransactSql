@@ -37,9 +37,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Enexure.Sql.Dynamic, Version=0.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Enexure.Sql.Dynamic, Version=1.0.0.8, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\Enexure.Sql.Dynamic.1.0.0\lib\net45\Enexure.Sql.Dynamic.dll</HintPath>
+      <HintPath>..\..\packages\Enexure.Sql.Dynamic.1.0.0.8\lib\net45\Enexure.Sql.Dynamic.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
