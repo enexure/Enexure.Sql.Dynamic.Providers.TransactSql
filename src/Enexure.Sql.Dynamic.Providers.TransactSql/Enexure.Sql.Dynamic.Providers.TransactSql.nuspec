@@ -7,7 +7,7 @@
     <owners>$author$</owners>
     <licenseUrl>https://github.com/Enexure/Enexure.Sql.Dynamic.Providers.TransactSql/blob/master/License.md</licenseUrl>
     <projectUrl>https://github.com/Enexure/Enexure.Sql.Dynamic.Providers.TransactSql/</projectUrl>
-    <iconUrl>https://github.com/Enexure/Enexure.Sql.Dynamic.Providers.TransactSql/blob/master/Logo.png</iconUrl>
+    <iconUrl>https://raw.github.com/Enexure/Enexure.Sql.Dynamic.Providers.TransactSql/master/Logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <tags>Immutable Dynamic SQL SQL-Generator</tags>
