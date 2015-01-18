@@ -37,13 +37,13 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Enexure.Sql.Dynamic, Version=0.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Enexure.Sql.Dynamic, Version=1.0.0.6, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Enexure.Sql.Dynamic.0.1.2\lib\net45\Enexure.Sql.Dynamic.dll</HintPath>
+      <HintPath>..\..\packages\Enexure.Sql.Dynamic.1.0.0.6\lib\net45\Enexure.Sql.Dynamic.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Collections.Immutable">
-      <HintPath>..\packages\Microsoft.Bcl.Immutable.1.0.30\lib\portable-net45+win8+wp8\System.Collections.Immutable.dll</HintPath>
+      <HintPath>..\..\packages\Microsoft.Bcl.Immutable.1.0.30\lib\portable-net45+win8+wp8\System.Collections.Immutable.dll</HintPath>
     </Reference>
     <Reference Include="System.Core" />
     <Reference Include="Microsoft.CSharp" />
